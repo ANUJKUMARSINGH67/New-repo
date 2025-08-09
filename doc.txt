@@ -1,0 +1,7 @@
+1. check the interior way to creat a file  ::- ls --Focus
+2. git comit :- 1.command :- git status
+                2. if you want to commited one file only then  you write the name only but you want all file then :git add*
+3.git commit: its means all wroking in your code its  take a snap  and track you code  one by one
+4.git branch :- to check the  where we work 
+5.git log:- it is use for  see the info of the all user 
+6. git diff :- it is command which show the differnt between  pahla code or bad ka code ka
